@@ -23,5 +23,5 @@ JUnit Automation codes can be extracted from this [link](https://github.com/tanv
 - The following report is generated:
 ![junit-report](https://user-images.githubusercontent.com/59876702/206897131-6c67fc9f-ecf2-4314-843b-8fd57ba2cd8f.png)
 
-- Watch the Project video and test run: [Video]([https://drive.google.com/drive/my-drive](https://drive.google.com/file/d/1EbKaRF6KL1i3frZBN85qqIGPvQ5f_J23/view?usp=sharing))</br>
+- Watch the Project video and test run: [Video](https://drive.google.com/file/d/1EbKaRF6KL1i3frZBN85qqIGPvQ5f_J23/view?usp=sharing))</br>
 
